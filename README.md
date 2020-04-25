@@ -1,5 +1,6 @@
 # MeeToo-Movement
-Analyzing the sentiment of the MeToo movement from the tweets in Twitter
+Exploratory-Data-Analysis-and-Sentiment-Analysis-of-MeToo-Movement.
+Analyzing the sentiment of the MeToo movement from the tweets in Twitter.
 
 https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1509589458/171101-ryan-metoo-tease_ann11k
 
