@@ -1,6 +1,7 @@
 # #MeToo Movement
-Exploratory-Data-Analysis-and-Sentiment-Analysis-of-MeToo-Movement.
-Analyzing the sentiment of the MeToo movement from the tweets in Twitter.
+
+**Exploratory-Data-Analysis-and-Sentiment-Analysis-of-MeToo-Movement.**
+
 
 **Project Motivation**
 
